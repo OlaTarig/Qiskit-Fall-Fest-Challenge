@@ -1,0 +1,7 @@
+-r requirements.txt
+qiskit-nature==0.8.0
+pyscf==2.15.0
+nbclient
+nbformat
+nbconvert
+jupyter           # provides the python3 kernel that tools/run_tests.py uses
